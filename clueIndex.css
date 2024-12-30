@@ -193,6 +193,7 @@ span img
 .clueContent
 	{
 	display:flex;
+	flex-direction:column;
 	overflow:auto;
 	}
 /*---------------END Style polybuis Key--------------*/
