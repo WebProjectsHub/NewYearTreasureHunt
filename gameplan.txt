@@ -1,3 +1,4 @@
+01
 Go to:
 
 A triangle turned inside out,
@@ -10,6 +11,7 @@ What is the green thingy in sight.
 
 *Starbucks
 
+02
 Go to:
 The 7th letter
 you take,
@@ -18,6 +20,7 @@ with (1 point less than the first 4 letters)
 
 *carrefour
 
+03
 Type the answer:
 Inside you go 
 to where the greens are in stow.
@@ -25,29 +28,44 @@ What sweet thing can you grow?
 
 * sweet potato
 
+04
+Out of the shop now go,
+Then look around you.
+
+Along the corridor this shop lingers,
+
+Buy and sell they do
+They are not thieves, though.
+
+
+*Carnab
+
+05
 Go to:
 Across the wing,
-off you go,
+off you now go,
 to where iron man's family
-stand in unity.
+stand firm in unity.
 
 * Zara
 
+06
 Go to:
-Towards the crowded place
+Towards the crowded place,
 the crowd - but not the place - one of you hates.
-Go beyond this place,
-turn left.
+Go beyond this place.
+Turn left.
 
 under the watchfull gaze of cotton puffs
-count the number of 
-the balance beam of joy.
+count the number moons.
 
-* 2
+* 6
 
+07
 Go to:
 Beware of Cerberus' drool in front of the gate.
-Face the gate. No, turn away.
+Face the gate. 
+No, turn away.
 to the neck, find your way.
 
 Seekers take a snap and send to me.
@@ -57,21 +75,101 @@ Only then I'll send to you.
 
 * take a picture and send to me. 
 
+08
 Go to:
 Go through the gate, to the belly of the 4 winged beast.
 
 If you've read the Professor's Inferno, you'd know,
-"The crescent you devour" type the price to get the clue.
+"The crescent you devour" 
+it comes at what cost to you.
 
 * 16
 
+09
 Go to:
 like the pirate, the treasure I mark
-10 tiles from the center, 2 tiles right, x tiles left, face right
+30 step from under the floating orb, 20 steps right, 45 steps left, face right
 
 Where are you?
 
 * American Eagle
+
+10
+5 x 3, this is me, 
+from your recent victory
+come and solve me.
+12
+51
+32
+33
+21
+22
+
+* cinema
+
+
+11
+Once there halt at its gate,
+then you'll see me,
+a dark chasm of noise,
+writhing bodies, tormented souls.
+
+empty now maybe, 
+but its guardians wanting victims, you'll see.
+
+* True Gamers
+
+12
+In Greek mythology, Jason has only one of this.
+Find him.
+
+* Chic
+
+
+14
+
+A pair, a duo, partners and lovers too.
+what shop can use an O 
+along the main avenue
+
+* Cuple
+
+15
+Along the same path
+are mirrored letter
+The chosen one's friend
+rhymes at the end.
+
+* iStyle
+
+16
+5x5 polybius square
+
+45 33 14 15 43 11 32 34 43
+
+* under armor
+
+17
+
+Scrambled egg, adios.
+
+*Daiso
+
+18
+Inside you will find me in display,
+brightly colored, 
+attractive, that's me.
+
+in pairs we come,
+can't buy me, not welcome.
+
+* fire extinguisher
+
+19
+Create a 5x5 polybius grid from the previous answer and use as key for:
+
+
+
 
 
 

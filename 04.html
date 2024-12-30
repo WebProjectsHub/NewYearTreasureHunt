@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title>02</title>
+   <title>04</title>
 
    <link rel="stylesheet" href="./clueIndex.css">
 
@@ -16,15 +16,18 @@
 	<!----------Clue---------------->
 	<div>
 		<div class="clueTitle">
-			Clue 02
+			Clue 04
 		</div>
 		<div class="clueContent">
 
 			<h5>
-The 7th letter					<br>
-you take,					<br>
-put side by side with				<br>
-(1 point less than the first 4 letters)
+Out of the shop now go,			<br>
+Then look around you.			<br><br>
+
+Along the corridor this shop lingers,	<br><br>
+
+Buy and sell they do,			<br>
+They are not thieves, though.		<br>	
 			</h5>
 		</div>
 	</div>
@@ -34,7 +37,7 @@ put side by side with				<br>
 	<h6 id="message"></h6>
 
 	<div id="link" style="display:none">
-		<button onclick="window.location.href='./03.html';">Proceed</button>
+		<button onclick="window.location.href='./05.html';">Proceed</button>
 	</div>
 	<!----------END Input + button-->
 </div>
@@ -49,7 +52,7 @@ function checkInput() {
   const message = document.getElementById("message");
   const button = document.getElementById("link");
 
-  if (input === "Carrefour") {
+  if (input.toLowerCase() === "Carnab".toLowerCase()) {
     button.style.display = "flex"; 
     message.textContent = ""; 
   } else {

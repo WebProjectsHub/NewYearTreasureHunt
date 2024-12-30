@@ -16,12 +16,10 @@
 	<!----------Clue---------------->
 	<div>
 		<div class="clueTitle">
-			Clue 02
+			Clue 03
 		</div>
 		<div class="clueContent">
-			<h6>
-Clue 01: Starbucks
-			</h6>
+
 			<h5>
 Inside you go					<br> 
 to where the greens are in stow.		<br>
@@ -50,7 +48,7 @@ function checkInput() {
   const message = document.getElementById("message");
   const button = document.getElementById("link");
 
-  if (input === "Sweet potato") {
+  if (input.toLowerCase() === "Sweet potato".toLowerCase()) {
     button.style.display = "flex"; 
     message.textContent = ""; 
   } else {
