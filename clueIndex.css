@@ -69,6 +69,21 @@ input[type=text]:focus
 	margin-bottom:20px;
 	overflow:auto;
 	}
+
+#link
+	{
+	display:flex;
+	justify-content:center;
+	}
+
+button
+	{
+	font-style:normal;
+	font-family:Arial;
+	font-weight:bold;
+	font-size: 2.0rem;
+	}
+
 /*---------------END Style input---------------------*/
 /*---------------Style #message----------------------*/
 #message

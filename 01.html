@@ -11,8 +11,9 @@
 
 </head>
 <body>
-<!----------Container 01------------>
+<!----------Container 01---------------->
 <div class="clueContainer" id="01">
+	<!----------Clue---------------->
 	<div>
 		<div class="clueTitle">
 			Clue
@@ -28,15 +29,17 @@ What is the green thingy in sight.					<br>
 			</h5>
 		</div>
 	</div>
-
-	<input 	type="text" id="input" oninput="checkInput()" placeholder="Answer.">	
+	<!--------------END Clue-------->
+	<!--------------Input + button-->
+	<input 	type="text" id="input" oninput="checkInput()" placeholder="Answer">	
 	<h6 id="message"></h6>
 
 	<div id="link" style="display:none">
 		<button onclick="window.location.href='./011.html';">Proceed</button>
 	</div>
+	<!----------END Input + button-->
 </div>
-<!----------END Container 01-------->
+<!----------END Container 01------------>
 
 
 
@@ -48,7 +51,7 @@ function checkInput() {
   const button = document.getElementById("link");
 
   if (input === "01") {
-    button.style.display = "block"; 
+    button.style.display = "flex"; 
     message.textContent = ""; 
   } else {
     message.textContent = "Try Again"; 
