@@ -48,14 +48,13 @@ input
 	{
 	display:flex;
 	justify-content:center;
-	height:20%;
+	/*-- height:20%; --*/
 	width:80%;
 	
 	border-radius:5px;
 	border: 1px solid #2B2D42;
 
-	margin-top:auto;
-	margin-bottom:auto;
+
 	margin-left:auto;
 	margin-right:auto;
 
@@ -65,16 +64,19 @@ input
 	font-size: 2.0rem;
 	text-align:center;
 	color:silver;
+	padding: 5px;
 	}
+
 input[type=text]:focus
 	{
 	background-color:yellow;
 	font-size: 2.5rem;
-	height:50%;
+	/*-- height:50%; --*/
 	width:80%;
 	color:black;
 	margin-bottom:20px;
 	overflow:auto;
+	padding: 5px;
 	}
 
 #link
