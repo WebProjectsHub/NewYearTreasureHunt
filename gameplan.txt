@@ -35,7 +35,7 @@ Then look around you.
 
 Along the corridor this shop lingers,
 
-Buy and sell they do
+Buy and sell they do.
 They are not thieves, though.
 
 
@@ -96,8 +96,14 @@ it comes at what cost to you.
 
 09
 Go to:
-like the pirate, the treasure I mark
-30 step from under the floating orb, 20 steps right, 45 steps left, face right
+like the pirate, 
+the treasure I mark.
+
+From the floating orb above,
+30 steps forward,
+20 steps right,
+45 steps left, 
+then face right.
 
 Where are you?
 
@@ -105,8 +111,9 @@ Where are you?
 
 10
 5 x 3, this is me, 
-from your recent victory
+Fill me with your recent victory.
 come and solve me.
+
 12
 51
 32
@@ -147,7 +154,7 @@ in the pillared space.
 * Chic
 
 
-14
+13
 
 A pair, a duo, partners and lovers too.
 what shop can use an O 
@@ -155,7 +162,7 @@ along the main avenue
 
 * Cuple
 
-15
+14
 Along the same path
 are mirrored letter
 The Chosen One's friend
@@ -163,41 +170,68 @@ rhymes at the end.
 
 * iStyle
 
-16
+15
 5x5 polybius square
 
-45 33 14 15 43 11 32 34 43
+54 33 41 51 24 11 24 23 43 24 
+u  n  d  e  r  a  r  m  o  r
+
 
 * under armor
 
-17
+16
 
 Scrambled egg, adios.
 
 *Daiso
 
-18
+17
 Inside you will find me in display,
-brightly colored, 
-attractive, that's me.
+Brightly colored, 
+Attractive, that's me.
 
-in pairs we come,
-can't buy me, not welcome.
+In pairs we come,
+Can't buy me, not welcome.
 
 * fire extinguisher
 
-19
-From this game,
-it will point you,
-next location to.
+18
+Play this game,
+And it will point you,
+the next location to go to.
 
 * atrium
 
+19
+A power I bestow,
+I come in may forms, though.
+
+The lives of cat I have with me,
+I am not where I used to be.
+
+What has become, 
+Of where I came from?
+
+* Jashanmal
+
+
+
 20
 You're almost there.
-get your clues here.
+Get your clues here.
 
-from your previous answers
-you will get your final answer.
+From your past endeavor,
+Your answer's now or never.
 
-Starbucks.
+
+FINAL CLUE
+15 and 17
+*
+Create a Polybuis square from answers to clues 15 and 17.
+
+Decode:
+1325443124455354123255321235244352
+
+
+* FIND THE GAME MASTER
+

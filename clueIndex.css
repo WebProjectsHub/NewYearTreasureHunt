@@ -79,7 +79,7 @@ input[type=text]:focus
 	padding: 5px;
 	}
 
-#link
+#link, .next, .restart
 	{
 	display:flex;
 	justify-content:center;
